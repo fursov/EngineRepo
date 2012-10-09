@@ -3,5 +3,6 @@
   <remote  name="fursov"
            fetch="ssh://git@github.com/" />
 
+  <project path="RobotExtension" name="fursov/EngineRepo" remote="fursov" revision="master" />
   <project path="RobotExtension" name="fursov/RobotRepo" remote="fursov" revision="master" />
 </manifest>
